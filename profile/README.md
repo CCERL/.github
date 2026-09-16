@@ -29,10 +29,10 @@ Our research combines high-fidelity numerical simulations, detailed chemical kin
 
 ## Open-Source Projects
 
-- [surfaceChemistry-OpenFOAM](https://github.com/CCERL/surfaceChemistry-OpenFOAM) — Detailed heterogeneous surface-chemistry modeling in OpenFOAM
-- [DTLreactingFoam](https://github.com/CCERL/DTLreactingFoam) — Reacting-flow simulations with detailed transport and chemistry
-- [realFluid-OpenFOAM](https://github.com/CCERL/realFluid-OpenFOAM) — OpenFOAM-based modeling of real-fluid thermophysical behavior
 - [flameletModels-OpenFOAM](https://github.com/CCERL/flameletModels-OpenFOAM) — Flamelet-based combustion modeling in OpenFOAM
+- [realFluid-OpenFOAM](https://github.com/CCERL/realFluid-OpenFOAM) — OpenFOAM-based modeling of real-fluid thermophysical behavior
+- [DTLreactingFoam](https://github.com/CCERL/DTLreactingFoam) — Reacting-flow simulations with detailed transport and chemistry
+- [surfaceChemistry-OpenFOAM](https://github.com/CCERL/surfaceChemistry-OpenFOAM) — Detailed heterogeneous surface-chemistry modeling in OpenFOAM
 
 ## Website
 
