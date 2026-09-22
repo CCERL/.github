@@ -15,14 +15,14 @@ Our research combines high-fidelity numerical simulations, detailed chemical kin
 * **Reduced-order modeling and scientific machine learning**
   Development of data-driven methods for accelerating reacting-flow simulations, including time-dependent reduced-order models, adaptive sampling, online learning, and machine-learning-assisted chemical kinetics.
 
-* **Catalytic reacting flows and ammonia cracking**
-  Numerical modeling of catalytic ammonia decomposition and other heterogeneous reacting systems using detailed surface chemistry, porous-media models, and particle-resolved simulations.
+* **Catalytic reacting flow simulations**
+  Numerical modeling of catalytic heterogeneous reacting systems using detailed surface chemistry, utilizing the particle-resolved modeling and porous-media modeling.
 
 * **Fundamental flame dynamics and multiphysics combustion**
   Investigation of lifted and nonpremixed flames, buoyancy-driven flame dynamics, droplet and wire combustion, and the effects of plasma and electric fields on combustion processes.
 
 * **Open-source CFD and computational methods**
-  Development of OpenFOAM-based solvers, libraries, and numerical methods for detailed chemistry and transport, real-fluid flows, surface reactions, catalytic reactors, and high-performance reacting-flow simulations.
+  Development of OpenFOAM-based frameworks and numerical methods for detailed transport, real-fluid thermophysical properties flows, detailed surface-chemsistry, and high-performance reacting-flow simulations.
 
 ## Open-Source Projects
 
