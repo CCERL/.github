@@ -6,26 +6,23 @@ Our research combines high-fidelity numerical simulations, detailed chemical kin
 
 ## Research Areas
 
-- **Turbulent combustion**  
-  Direct numerical simulation (DNS) and large-eddy simulation (LES) of turbulent flames, flame stabilization, autoignition, and pollutant formation.
+* **High-fidelity simulation of reacting flows**
+  Direct numerical simulation (DNS) and large-eddy simulation (LES) of turbulent combustion, autoignition, flame stabilization, differential-diffusion effects, and pollutant formation.
 
-- **Laminar flames and fundamental combustion**  
-  Flame propagation, diffusive–thermal instability, lifted flames, cool flames, and low-temperature fuel chemistry.
+* **Ammonia and hydrogen combustion**
+  Fundamental and applied studies of ammonia, hydrogen, and blended-fuel combustion, including turbulent ignition, flame stabilization, staged gas-turbine combustion, and emission reduction.
 
-- **Engine combustion**  
-  Chemical kinetics and combustion characteristics of advanced engine concepts, including homogeneous charge compression ignition (HCCI).
+* **Reduced-order modeling and scientific machine learning**
+  Development of data-driven methods for accelerating reacting-flow simulations, including time-dependent reduced-order models, adaptive sampling, online learning, and machine-learning-assisted chemical kinetics.
 
-- **Ammonia cracking and catalytic reactors**  
-  Hydrogen production through catalytic ammonia decomposition, detailed heterogeneous surface chemistry, and particle-resolved and porous-media modeling of catalytic reactors.
+* **Catalytic reacting flows and ammonia cracking**
+  Numerical modeling of catalytic ammonia decomposition and other heterogeneous reacting systems using detailed surface chemistry, porous-media models, and particle-resolved simulations.
 
-- **Gas-turbine and high-pressure combustion**  
-  Staged gas-turbine combustion, supercritical CO₂ oxy-fuel combustion, flame stabilization, and emission characteristics.
+* **Fundamental flame dynamics and multiphysics combustion**
+  Investigation of lifted and nonpremixed flames, buoyancy-driven flame dynamics, droplet and wire combustion, and the effects of plasma and electric fields on combustion processes.
 
-- **Plasma-assisted combustion**  
-  Plasma–flame interactions and plasma-based technologies for extending lean operating limits and reducing pollutant emissions.
-
-- **Open-source CFD development**  
-  Development of OpenFOAM-based solvers and libraries for reacting flows, real-fluid thermodynamics, detailed chemistry, surface reactions, and catalytic packed-bed reactors.
+* **Open-source CFD and computational methods**
+  Development of OpenFOAM-based solvers, libraries, and numerical methods for detailed chemistry and transport, real-fluid flows, surface reactions, catalytic reactors, and high-performance reacting-flow simulations.
 
 ## Open-Source Projects
 
