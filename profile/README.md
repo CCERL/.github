@@ -26,7 +26,7 @@ Our research combines high-fidelity numerical simulations, detailed chemical kin
 
 ## Workshops & Tutorials
 
-- [KOSCO 2026 NextGen Combustion Workshop](https://github.com/CCERL/KOSCO-2026-NextGen-Combustion) — OpenFOAM workshop materials, including prerequisites and hands-on tutorials for combustion and reacting-flow simulations.
+- [KOSCO 2026 NextGen Combustion](https://github.com/CCERL/KOSCO-2026-NextGen-Combustion) — prerequisites and hands-on tutorials for OpenFOAM.
 
 ## Open-Source Projects
 
