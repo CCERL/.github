@@ -24,6 +24,10 @@ Our research combines high-fidelity numerical simulations, detailed chemical kin
 * **Open-source CFD and computational methods**
   Development of OpenFOAM-based frameworks and numerical methods for detailed transport, real-fluid thermophysical properties flows, detailed surface-chemsistry, and high-performance reacting-flow simulations.
 
+## Workshops & Tutorials
+
+- [KOSCO 2026 NextGen Combustion Workshop](https://github.com/CCERL/KOSCO-2026-NextGen-Combustion) — OpenFOAM workshop materials, including prerequisites and hands-on tutorials for combustion and reacting-flow simulations.
+
 ## Open-Source Projects
 
 - [flameletModels-OpenFOAM](https://github.com/CCERL/flameletModels-OpenFOAM) — Flamelet-based combustion modeling in OpenFOAM
