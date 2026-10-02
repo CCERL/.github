@@ -34,7 +34,7 @@ Our research combines high-fidelity numerical simulations, detailed chemical kin
 - [realFluid-OpenFOAM](https://github.com/CCERL/realFluid-OpenFOAM) — OpenFOAM-based modeling of real-fluid thermophysical behavior
 - [DTLreactingFoam](https://github.com/CCERL/DTLreactingFoam) — Reacting-flow simulations with detailed transport and chemistry
 - [surfaceChemistry-OpenFOAM](https://github.com/CCERL/surfaceChemistry-OpenFOAM) — Detailed heterogeneous surface-chemistry modeling in OpenFOAM
-- [plasmaFoam](https://github.com/CCERL/plasmaFoam) — Plasma reacting-flow modeling in OpenFOAM (updates coming soon)
+- [plasma-OpenFOAM](https://github.com/CCERL/plasma-OpenFOAM) — Plasma reacting-flow modeling in OpenFOAM (updates coming soon)
 - [miniFoamAI](https://github.com/CCERL/miniFoamAI) — AI-powered CFD modeling in OpenFOAM (updates coming soon)
   
 ## Website
